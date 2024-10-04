@@ -6,7 +6,7 @@ public class testAddStrings {
 
 	@Test
 	public void test() {
-		jUnitFunctions.AddStrings("Aryan","Bansal");
+		jUnitFunctions.AddStrings("Aryan","Mishra");
 	}
 
 }
